@@ -20,4 +20,4 @@ Here's the monthly graph:
 
 Here's the quarterly graph:
 ![quarterly](https://github.com/BoweiWei/Bitcoin_Price_Prediction/blob/master/Quarterly.png)
-# Bitcoin_Price_Prediction
+
