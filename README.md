@@ -16,8 +16,8 @@ Analyze the Bitcoin price from 1.1.2012 to 10.31.2018 using timestamp and ARMA m
 Conclusion: ARMA model predicted that the Bitcoin price will be dropped to around $4000 dollar in 8 month. And it did a great job. The actual price dropped right below $4000. The monthly based dataset performed better than the quarterly since more details are produced. 
 
 Here's the monthly graph:
-![monthly](https://github.com/BoweiWei/Bitcoin_Price_Prediction/Monthly.png)
+![monthly](https://github.com/BoweiWei/Bitcoin_Price_Prediction/blob/master/Monthly.png)
 
 Here's the quarterly graph:
-![quarterly](https://github.com/BoweiWei/Bitcoin_Price_Prediction/Quarterly.png)
+![quarterly](https://github.com/BoweiWei/Bitcoin_Price_Prediction/blob/master/Quarterly.png)
 # Bitcoin_Price_Prediction
